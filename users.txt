@@ -5,3 +5,7 @@ access: no
 username: slack
 hwid: AAFA03AA4A9C1D15C57029ADC21AE9187DADD612D70809C17682624DCE7A31D2
 access: no
+
+username: tender
+hwid: penis
+access: no
